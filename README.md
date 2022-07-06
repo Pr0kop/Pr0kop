@@ -6,7 +6,7 @@
 - Fun fact: I love learning new languages, and facts
 - My 2022 Goals: 
     1. Finishing JavaScript course 
-    2. Achieving Master Degree
+    2. Achieving Master Degree ✅
     3. Making more projects ad Git Contributions
     4. Building own website and Portfolio
 
