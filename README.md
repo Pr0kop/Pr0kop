@@ -4,12 +4,9 @@
 - I'm currently working on improving my skills
 - I'm currently learning everything because there's always a way to improve
 - Fun fact: I love learning new languages, and facts
-- My 2022 Goals: 
-    1. Finishing JavaScript course 
-    2. Achieving Master Degree ✅
-    3. Making more projects ad Git Contributions
-    4. Building own website and Portfolio
-
+- My 2025 Goals: 
+    1. Developement of own Symfony + Vue application
+    
 ### Connect with me:
 
 [<img align="left" alt="Pr0kop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
